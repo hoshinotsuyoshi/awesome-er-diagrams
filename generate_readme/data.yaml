@@ -30,5 +30,5 @@ items:
     This project features a comprehensive schema of tables for managing users, statuses, and media attachments. It accommodates multi-tenant data through tables for users, accounts, templates, and submissions. The schema ensures data integrity through foreign keys and indexes, while providing dedicated support for event tracking, OAuth, file attachments, and webhooks. This demonstrates a robust, form-driven application flow.
   headline_genres:
   - "Communication - Social Networks and Forums"
-  table_count: 99
+  table_count: 102
   checked_at: '2025-02-12'
