@@ -18,5 +18,5 @@ Discover a curated selection of [Entity-Relationship Diagrams (ERDs)](https://li
 ### Communication - Social Networks and Forums
 
 - [mastodon](https://liambx.com/erd/p/github.com/mastodon/mastodon/blob/main/db/schema.rb?showMode=ALL_FIELDS) Your self-hosted, globally interconnected microblogging community.
-  - **Schema Highlights:** This project features a comprehensive schema of tables for managing users, statuses, and media attachments. It accommodates multi-tenant data through tables for users, accounts, templates, and submissions. The schema ensures data integrity through foreign keys and indexes, while providing dedicated support for event tracking, OAuth, file attachments, and webhooks. This demonstrates a robust, form-driven application flow. `99 tables`. ([Source Code](https://github.com/mastodon/mastodon))
+  - **Schema Highlights:** This project features a comprehensive schema of tables for managing users, statuses, and media attachments. It accommodates multi-tenant data through tables for users, accounts, templates, and submissions. The schema ensures data integrity through foreign keys and indexes, while providing dedicated support for event tracking, OAuth, file attachments, and webhooks. This demonstrates a robust, form-driven application flow. `102 tables`. ([Source Code](https://github.com/mastodon/mastodon))
 
